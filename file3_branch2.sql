@@ -1,1 +1,1 @@
-this is branch 2 file.
+this is branch 2 file.xxx
